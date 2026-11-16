@@ -124,3 +124,40 @@ img{
     text-align:center;
     box-shadow: 2px 2px 3px #999;  
 }
+
+.contact-container {
+    max-width: 800px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.contact-title {
+    text-align: center;
+    color: #212529;
+    margin-bottom: 10px;
+}
+
+.contact-subtitle {
+    text-align: center;
+    color: #6c757d;
+    margin-bottom: 30px;
+}
+
+.contact-card {
+    background-color: #ffffff;
+    border-left: 5px solid #ffc107;
+    border-radius: 8px;
+    padding: 20px 25px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact-card h3 {
+    color: #343a40;
+    margin-bottom: 15px;
+}
+
+.contact-card p {
+    margin-bottom: 8px;
+    color: #495057;
+}
